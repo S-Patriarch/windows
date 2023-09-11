@@ -1,6 +1,6 @@
 /*++
 
-    Hal
+    Hal for Windows
     Copyright (c) S-Patriarch, 2023
 
     Небольшая вредоносная программа.
